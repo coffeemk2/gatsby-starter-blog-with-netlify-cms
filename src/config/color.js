@@ -1,0 +1,16 @@
+export default {
+  white: `#fff`,
+  grey1: `#f8f8f8`,
+  grey2: `#ccc`,
+  grey3: `#9f9f9f`,
+  grey4: `#989898`,
+  grey5: `#727272`,
+  grey6: `#606060`,
+  grey7: `#4e4e4e`,
+  black: `#222`,
+  palegrey: `#f4eff2`,
+  pinkish: `#d5697f`,
+  rouge: `#8d1e35`,
+  lipstickVivid: `#cf143a`,
+  lipstick: `#e83256`,
+}
