@@ -20,7 +20,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```sh
     # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+    gatsby new my-blog-starter https://github.com/coffeemk2/gatsby-starter-blog-with-netlify-cms
     ```
 
 1.  **Start developing.**
